@@ -1,4 +1,4 @@
-package codec.encoder;
+package com.zst.codec.encoder;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.http.HttpResponseEncoder;
